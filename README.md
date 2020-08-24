@@ -1,4 +1,9 @@
-### Hi there 👋
+## Hi there 👋
+
+### Currently working on 🔭
+- BetterSleeping ~ Spigot plugin (Java)
+- BlackBox ~ Android app (Dart + Flutter and Firebase)
+- Perfect Plate ~ Android app (Dart + Flutter and Firebase)
 
 <!--
 **Nuytemans-Dieter/Nuytemans-Dieter** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
