@@ -7,7 +7,11 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nuytemans-dieter&show_icons=true" alt="nuytemans-dieter" /></p>
 
+<details>
+  <summary>View BetterSleeping stats</summary>
+  
 ![BetterSleeping stats graph](https://bstats.org/signatures/bukkit/BetterSleeping.svg)
+</details>
 
 <!--
 **Nuytemans-Dieter/Nuytemans-Dieter** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
