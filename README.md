@@ -1,11 +1,13 @@
-## Hi there 👋
+## Hello there ![Obi Wan](https://i.imgur.com/IYOs5wp.png)
 
 ### Currently working on 🔭
-- BetterSleeping ~ Spigot plugin (Java)
-- BlackBox ~ Android app (Dart + Flutter and Firebase)
-- Perfect Plate ~ Android app (Dart + Flutter and Firebase)
+- [BetterSleeping](https://github.com/Nuytemans-Dieter/BetterSleeping) ~ Spigot plugin (Java)
+- [BlackBox](https://github.com/TNelen/BlackBox) ~ Android app (Dart + Flutter and Firebase)
+- [Perfect Plate](https://github.com/MichielProost/Perfect-Plate) ~ Android app (Dart + Flutter and Firebase)
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nuytemans-dieter&show_icons=true" alt="nuytemans-dieter" /></p>
+
+![BetterSleeping stats graph](https://bstats.org/signatures/bukkit/BetterSleeping.svg)
 
 <!--
 **Nuytemans-Dieter/Nuytemans-Dieter** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
