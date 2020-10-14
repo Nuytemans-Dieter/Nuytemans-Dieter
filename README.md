@@ -1,4 +1,4 @@
-## Hello there ![Obi Wan](https://i.imgur.com/IYOs5wp.png) ![](https://komarev.com/ghpvc/?username=Nuytemans-Dieter&color=green&style=plastic&)
+## Hello there ![Obi Wan](https://i.imgur.com/IYOs5wp.png) ![](https://komarev.com/ghpvc/?username=Nuytemans-Dieter&color=blue&style=flat)
 
 ### Currently working on 🔭
 - [BetterSleeping](https://github.com/Nuytemans-Dieter/BetterSleeping) ~ Spigot plugin (Java)
