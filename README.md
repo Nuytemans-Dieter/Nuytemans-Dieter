@@ -3,7 +3,6 @@
 ### Currently working on 🔭
 - [BetterSleeping](https://github.com/Nuytemans-Dieter/BetterSleeping) ~ Spigot plugin (Java)
 - [BlackBox](https://github.com/TNelen/BlackBox) ~ Android app (Dart + Flutter and Firebase)
-- [Perfect Plate](https://github.com/MichielProost/Perfect-Plate) ~ Android app (Dart + Flutter and Firebase)
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nuytemans-dieter&show_icons=true" alt="nuytemans-dieter" /></p>
 
