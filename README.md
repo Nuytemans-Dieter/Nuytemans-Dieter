@@ -3,6 +3,7 @@
 ### Currently working on 🔭
 - [BetterSleeping](https://github.com/Nuytemans-Dieter/BetterSleeping) ~ Spigot plugin (Java)
 - [BlackBox](https://github.com/TNelen/BlackBox) ~ Android app (Dart + Flutter and Firebase)
+- [Chess at chess.nuytemans.com](https://chess.nuytemans.com) ~ An offline multiplayer chess implementation (Javascript);
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nuytemans-dieter&show_icons=true" alt="nuytemans-dieter" /></p>
 
